@@ -1,0 +1,28 @@
+There are two main types
+Primitive and Reference
+*int            * string
+*double         * array
+*char           * object
+*boolean
+
+
+There are even more primitive datatypes including:
+byte, short, long, float, void
+bytes = 8 bits
+short = 16 bits
+int = 32 bits
+long = 64 bitsfloat = 32 bits
+double = 64 bits
+
+
+Primitive - are simple values stored directly in memory - usually in a location known as stack
+Reference - are memeory addresses (stack) that points to the heap.
+
+
+
+char - can only contain a single character wrapped in single quotes
+
+REFERENCE 
+String = a series of characters wrapped in double quotes
+
+NB: char is wrapped in single quotes and Strings are wrapped in double quotes

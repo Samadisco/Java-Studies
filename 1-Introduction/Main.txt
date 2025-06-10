@@ -1,0 +1,3 @@
+Note the difference between 
+System.out.print()
+System.out.println()
